@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0
+}
+body{
+    max-width: 500px;
+    margin: 0 auto;
+    border: 2px solid red;
+    
+}
+.overall-cont{
+    background-color:lightgoldenrodyellow;
+
+}
+h2{
+    color:darkcyan;
+    margin-bottom: 30px;
+    padding-top:10px ;
+}
+.info, h2{
+    text-align: center;
+    /* margin-top: 10px; */
+
+}
+.info{
+    margin-bottom: 50px;
+    font-size: 20px;
+    line-height: 25px;
+}
+label{
+    color:brown;
+    font-weight: bold;
+    font-size: 15px;
+}
+#guess-number{
+    width:10%;
+    margin-right: 10px;
+   
+}
